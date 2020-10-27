@@ -1,2 +1,2 @@
-# WebProject
-personal WebProject to use spec
+# 개인 웹프로젝트
+포트폴리오 제출을 위한 개인 웹프로젝트입니다.
