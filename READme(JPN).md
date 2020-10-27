@@ -1,5 +1,6 @@
 # 個人的ウェブプロジェクト
-自分のスペックのためのプロジェクトです。
-
+<p style="margin-top:20px">自分のスペックのためのプロジェクトです。<br>
 このプロジェクトは"https://opentutorials.org/course/1"
-を基に行われます。
+を基に行われます。<br>
+<strong>使用IDE : Atom</strong><br>
+<strong>使用言語 : HTML</strong><br>
