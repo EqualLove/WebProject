@@ -3,4 +3,4 @@
 "https://opentutorials.org/course/1" 를 기반으로 진행하고있습니다.<br>
 <strong>사용 IDE : Atom</strong><br>
 <strong>사용 언어 : HTML</strong><br>
-<strong>웹 호스팅 : GITHUB PAGE</strong><br></p>
+<strong>웹 호스팅 : GITHUB PAGES</strong><br></p>
