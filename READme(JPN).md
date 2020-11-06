@@ -3,5 +3,5 @@
 このプロジェクトは"https://opentutorials.org/course/1"
 を基に行われます。<br>
 <strong>使用IDE : Atom</strong><br>
-<strong>使用言語 : HTML</strong><br>
+<strong>使用技術 : HTML、CSS</strong><br>
 <strong>使用ウェブホスティング : GITHUB PAGES</strong><br></p>
