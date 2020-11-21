@@ -4,6 +4,13 @@
 		<title>Search User Stats</title>
 		<meta charset="utf-8">
 		<style>
+			#grid{
+				border: 3px solid pink;
+				display: grid;
+			}
+			div{
+				border-bottom: 3px solid yellow;
+			}
 			body{
 				background-color: grey;
 			}
@@ -19,11 +26,18 @@
 		</style>
 	</head>
 	<body>
-		<h1><strong>유저 전적검색</strong></h1>
-		<form action="/action_page.php">
-			<input type="text" id="User_name" name="User_name"><br>
-			<input type="submit" value="검색">
-		</form>
+		<div id="grid">
+			<div>
+				<h1><strong>유저 전적검색</strong></h1>
+				<form action="/action_page.php">
+					<input type="text" id="User_name" name="User_name"><br>
+					<input type="submit" value="검색">
+				</form>
+			</div>
+			<div>
+				<h1>Test Text</h1>
+			</div>
+		</div>
 	</body>
 </html>
 
